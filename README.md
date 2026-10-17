@@ -14,7 +14,7 @@ Neste repositório, disponibilizei três arquivos fundamentais para os nossos es
 
 ## 📝 Sobre a Autoria e Criação do Material
 
-~70% do conteúdo em texto presente nestes arquivos foi escrito por mim, compilado através de diversas anotações antigas e resumos de quando eu mesmo estava aprendendo essa disciplina. O objetivo é passar o conhecimento de aluno para aluno, com dicas práticas para o dia a dia de estudos.
+~75% do conteúdo em texto presente nestes arquivos foi escrito por mim, compilado através de diversas anotações antigas e resumos de quando eu mesmo estava aprendendo essa disciplina. O objetivo é passar o conhecimento de aluno para aluno, com dicas práticas para o dia a dia de estudos.
 
 Para que o arquivo `Conceitos_SQL.pdf` ficasse com uma leitura mais agradável, didática e com um visual profissional, **utilizei modelos de Inteligência Artificial para formatar o layout e o design** do documento, sem alterar a autoria do conteúdo.
 
