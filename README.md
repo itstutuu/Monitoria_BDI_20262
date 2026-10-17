@@ -4,11 +4,11 @@ Olá, sejam bem-vindos!
 
 Este repositório foi criado para auxiliar alunos do **1º semestre de um curso de Ciência de Dados** na disciplina de **Banco de Dados I**. Eu sou o monitor da matéria e preparei este espaço para compartilhar alguns materiais de estudo, resumos e exemplos práticos para ajudar vocês a dominarem os conceitos essenciais de SQL e estruturação de dados.
 
-## 📂 O que você vai encontrar aqui?
+## 📂 O que você vai encontfrar aqui?
 
 Neste repositório, disponibilizei três arquivos fundamentais para os nossos estudos:
 
-* 📄 **`Conceitos_SQL.pdf`**: Material de estudo principal. Ele aborda os conceitos fundamentais de Bancos de Dados Relacionais, as sublinguagens do SQL (DQL, DML, DDL, DCL, TCL), como construir consultas com `SELECT` e `JOINs`, além de trazer um exemplo de *workflow* de estudos, dicas de stack (Front-end vs Back-end vs API) e um exemplo de dicionário de dados.
+* 📄 **`Conceitos_SQL.pdf`**: Material de estudo principal. Ele aborda os conceitos fundamentais de Bancos de Dados Relacionais, as sublinguagens do SQL (DQL, DML, DDL, DCL, TCL), como construir consultas com `SELECT`, `JOINs` e `Subqueries`, além de trazer um exemplo de *workflow* de estudos, dicas de stack (Front-end vs Back-end vs API) e um exemplo de dicionário de dados.
 * 📝 **`Resumo - Data Query Language (DQL).md`**: Um guia rápido (cheatsheet) focado exclusivamente em consultas de dados. É um material de consulta rápida para relembrar como usar o `SELECT`, filtros (`WHERE`, `LIKE`, `IN`), ordenação (`ORDER BY`), junções (`JOINs`) e funções comuns de formatação e tempo.
 * 🐍 **`interface.py`**: Um exemplo prático em código Python mostrando como um banco de dados se conecta com uma aplicação real. O código utiliza as bibliotecas `PySimpleGUI` (para a interface visual - Front-end) e `psycopg2` (para conectar e executar comandos SQL no PostgreSQL - Back-end/API). *Nota: este arquivo foi compartilhado com um exemplo. Use-o para ajudar a elaborar conexões com o banco e gerar interfaces gráficas com Python e PostgreSQL.*
 
