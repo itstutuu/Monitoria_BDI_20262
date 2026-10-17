@@ -4,7 +4,7 @@ Olá, sejam bem-vindos!
 
 Este repositório foi criado para auxiliar alunos do **1º semestre de um curso de Ciência de Dados** na disciplina de **Banco de Dados I**. Eu sou o monitor da matéria e preparei este espaço para compartilhar alguns materiais de estudo, resumos e exemplos práticos para ajudar vocês a dominarem os conceitos essenciais de SQL e estruturação de dados.
 
-## 📂 O que você vai encontfrar aqui?
+## 📂 O que você vai encontrar aqui?
 
 Neste repositório, disponibilizei três arquivos fundamentais para os nossos estudos:
 
